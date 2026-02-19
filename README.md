@@ -1,0 +1,2 @@
+# Applicazioni_Data_Intensive
+Repo privata per sincronizzazione materiale relativo al corso Applicazioni_Data_Intensive
